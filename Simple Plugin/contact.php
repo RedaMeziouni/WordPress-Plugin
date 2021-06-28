@@ -7,7 +7,7 @@
  * Version:           1.0.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
- * Author:            R3DKHAY
+ * Author:            REDKHAY
  * Author URI:        #
  * License:           GPL v2 or later
  * License URI:       #
